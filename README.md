@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00CFFF&height=200&section=header&text=Taheia%20Saad&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Header"/>
 </p>
 
-<h3 align="center">🚀 Data Science Student | Machine Learning Engineer | AI Enthusiast</h3>
+<h3 align="center">🚀 Data Science Student | Machine Learning Engineer </h3>
 
 <p align="center">
   <a href="https://www.google.com/search?q=Taheia+Saad">
